@@ -1,6 +1,6 @@
-Deep Learning Assignment – CNN & RNN (LSTM)
+**Deep Learning Assignment – CNN & RNN (LSTM)**
 
-This repository contains two deep learning models implemented as part of the college assignment:
+**This repository contains two deep learning models implemented :**
 
 1️⃣ Convolutional Neural Network (CNN)
 
